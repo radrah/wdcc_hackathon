@@ -1,0 +1,124 @@
+* {
+    font-family: 'Roboto', 'Segoe UI', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* .html {
+    margin: 0 auto;
+    max-width: 90%;
+    max-height: 90%;
+} */
+
+a {
+    text-decoration: none;
+}
+
+img {
+    height: 5.5rem;
+    width: auto;
+}
+
+ul {
+    background-color: #fff;
+}
+
+/* Navbar */
+
+.btn {
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.logo {
+    margin-right: 5rem;
+}
+
+.links {
+    /* background-color: aliceblue; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: space-around; */
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.navbar {
+    /* background-color: bisque; */
+    display: grid;
+    grid-template-columns: 1.75fr 1fr;
+    align-items: center;
+    justify-content: center;
+    /* margin: 1rem;
+    padding: 1rem; */
+
+}
+
+.navbar img {
+    /* background-color: aquamarine; */
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+/* Main */
+.workContain {
+    /* background-color: aqua; */
+    display: flex;
+    margin: 1rem;
+    padding: 1rem;
+    /* align-items: center; */
+    justify-content: space-around;
+}
+
+/* .workContain {
+    align-items: center;
+} */
+.space {
+    /* background-color: antiquewhite; */
+    /* margin: 1rem;
+    padding: 1rem; */
+}
+.timer {
+    background-color: #fff;
+    display: flex;
+    margin: 1rem;
+    padding: 1rem;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.procrastinate {
+    font-size: 1.5rem;
+    /* margin: 1rem;
+    padding: 1rem; */
+    /* margin: 0.3rem; */
+    padding: 0.75rem;
+    margin-top: 130px;
+    border: 4px solid lightgreen;
+    background-color: #fff;
+    transition: 0.5s ease;
+}
+.procrastinate:hover {
+    background-color: lightgreen;
+    transition: 0.5s ease;
+}
+
+#myUL {
+    font-size: 1.5em;
+    margin: 1rem;
+    padding: 3rem;
+    border: 5px solid black;
+}
+.body {
+    --stripe: #cfd8dc;
+    --bg: #e1e1e1;
+  
+    background: linear-gradient(135deg, var(--bg) 25%, transparent 25%) -50px 0,
+      linear-gradient(225deg, var(--bg) 25%, transparent 25%) -50px 0,
+      linear-gradient(315deg, var(--bg) 25%, transparent 25%),
+      linear-gradient(45deg, var(--bg) 25%, transparent 25%);
+    background-size: 100px 100px;
+    background-color: var(--stripe);
+    min-height: 100vh;
+  }

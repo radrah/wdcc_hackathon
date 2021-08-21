@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+  }
+h1,h2 {
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 20px ;
+}
+
+
+.btn {
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.logo {
+    margin-right: 5rem;
+}
+
+.links {
+    /* background-color: aliceblue; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+.navbar {
+    /* background-color: bisque; */
+    display: grid;
+    grid-template-columns: 1.75fr 1fr;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    /* margin: 1rem;
+    padding: 1rem; */
+
+}
+
+.navbar img {
+    /* background-color: aquamarine; */
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
+  .main {
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px;
+    /* Used in this example to enable scrolling */
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+}
+table, th, td {
+    border: 1px solid black;
+    margin-left: 20px;
+  }
+  .chart {
+      height: 100%;
+      width: auto;
+      margin-left: 250px;
+      margin-top: 3em;
+      
+  }
+
+  .whatever {
+      display: flex;
+  }
+  .body {
+    --stripe: #cfd8dc;
+    --bg: #e1e1e1;
+  
+    background: linear-gradient(135deg, var(--bg) 25%, transparent 25%) -50px 0,
+      linear-gradient(225deg, var(--bg) 25%, transparent 25%) -50px 0,
+      linear-gradient(315deg, var(--bg) 25%, transparent 25%),
+      linear-gradient(45deg, var(--bg) 25%, transparent 25%);
+    background-size: 100px 100px;
+    background-color: var(--stripe);
+    min-height: 100vh;
+  }
