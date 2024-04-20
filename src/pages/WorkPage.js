@@ -1,24 +1,15 @@
 import React from 'react';
 import '../styling/work.css';
-// import '../styling/procrastination.css';
 import Button from '../components/Button';
-import { getMeaningOfLife } from '../utils/ExampleUtil';
 import about_us from './about_us';
 
-var counter= 4;
-function getResult() {
-  alert(`Why would you want to do that?`)
-}
-function getSignOut() {
-    alert(`Signed out successfully!`)
-}
 
 function WorkPage() {
 
   return (
     <div>
-      <div class="navbar">
-            <a href="/"><img class= "logo" src="./img/logo sc.png"></img></a>
+      <div class="navbar" >
+            <a href="/"><img class= "logo" src="./img/NewLogo.png" alt="logo" style={{width:"500px", height:"125px"}}></img></a>
             <div class= "links">
             <a href = {'/about'}>
                 <Button buttonText={"About Us"} clickAction={about_us}/>

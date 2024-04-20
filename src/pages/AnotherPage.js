@@ -2,16 +2,14 @@ import React, {useState} from 'react';
 import '../styling/signup.css';
 import Button from '../components/Button';
 
-function signUp() {
-  alert(`Successful Sign Up!`);
-}
+
 
 function AnotherPage() {
   const [showPassword] = useState(false)
   return (
     <div class="body">
       <div class="navbar">
-        <img src="./img/logo sc.png"></img>
+      <img class= "logo" src="./img/NewLogo.png" alt="logo" style={{width:"500px", height:"125px"}}></img>
       </div>
       
       <div class="section">

@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import '../styling/index.css';
 import Button from '../components/Button';
-import exampleCall from '../api/exampleCall';
 import '../styling/background.css';
 
 // import '../styling/navbar.css';
@@ -12,15 +11,6 @@ function signIn() {
   //then call the correct backend endpoint to make a request
 }
 
-// async function exampleCallFunct() {
-//   const response = await exampleCall();
-//   if (response.success) {
-//     alert(`Server says: ${JSON.stringify(response.data)}`);
-//   } else {
-//     alert(`Server had an error: ${JSON.stringify(response.error)}`);
-//   }
-// }
-
 
 function IndexPage() {
   const [showPassword, setShowPassword] = useState(false)
@@ -30,7 +20,7 @@ function IndexPage() {
       <div className={'spacer'} />
       <div className={'content'}>
         <div class="title">
-          <img class="image" src="./img/logo sc.png"></img>
+        <img class= "logo" src="./img/NewLogo.png" alt="logo" style={{width:"600px", height:"175px"}}></img>
           <h2>"Just do it, later."</h2>
         </div>
         
