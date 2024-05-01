@@ -35,25 +35,25 @@ function Procrastination() {
             <h2 class="read">Reading & Social Media</h2>
             <div class= "windows">
             
-            <div class="thumbnails"><a href= "https://facebook.com" target= "_blank" rel="noreferrer"><img src= "https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" alt="facebook"></img></a></div>
-                <div class="thumbnails"><a href= "https://reddit.com" target= "_blank" rel="noreferrer"><img alt="reddit" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2"></img></a></div>
-                <div class="thumbnails"><a href= "https://twitter.com" target= "_blank" rel="noreferrer"><img alt="twitter" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"></img></a></div>
+            <div class="thumbnails"><a href= "https://facebook.com" target= "_blank" rel="noreferrer"><img src= "https://strikingplaces.com/wp-content/uploads/Facebook-banner.png" alt="facebook"></img></a></div>
+                <div class="thumbnails"><a href= "https://reddit.com" target= "_blank" rel="noreferrer"><img alt="reddit" src="https://www.redditinc.com/assets/images/blog/reddit_header_2023-11-28-222257_hthh.png"></img></a></div>
+                <div class="thumbnails"><a href= "https://twitter.com" target= "_blank" rel="noreferrer"><img alt="twitter" src="https://media.sketchfab.com/models/8a66de89107f44e2a9524f38d9ed7110/thumbnails/3cdfc6de78e84022936d3af7127a4ecf/79590e616bd349f6b6ee0e19bda3f14e.jpeg"></img></a></div>
             </div>
           </div>
           <div>
             <h2><a href= "https://youtube.com" target= "_blank" rel="noreferrer"><img alt="youtube" src="./img/youtube.png"></img></a></h2>
             <div class= "windows">
-            <div class="thumbnailsVid"><a href="https://www.youtube.com/watch?v=ktyJIj6i4Qw&pp=sAQA" target="_blank" rel="noreferrer"><img alt="thumbnail1" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/14f2a7fb-8eea-4233-9556-13ec3e3458ca/Youtube_Trending_1.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210801%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210801T011338Z&X-Amz-Expires=86400&X-Amz-Signature=3e0af9a911849ab06ca607d190acf16f8f5132b79cef3867c8d791b6d0323b8a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Youtube_Trending_1.webp%22"></img></a></div>
-            <div class="thumbnailsVid"><a href="https://www.youtube.com/watch?v=8HEfIJlcFbs&pp=sAQA" target="_blank" rel="noreferrer"><img alt="thumbnail2" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/976ccfd6-eb12-4c46-9d14-962458382e08/Youtube_Trending_2.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210801%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210801T011515Z&X-Amz-Expires=86400&X-Amz-Signature=b346961f1110f63c45aa25a4fe33be03ee36c3b06c8e7ef39b45224823a11cc0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Youtube_Trending_2.webp%22"></img></a></div>
-            <div class="thumbnailsVid"><a href="https://www.youtube.com/watch?v=CEw-7cMnBDY&pp=sAQA" target="_blank" rel="noreferrer"><img alt="thumbnail3" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/66479c13-d857-4432-8ebe-01f24e5d39ef/Youtube_Trending_3.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210801%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210801T011550Z&X-Amz-Expires=86400&X-Amz-Signature=c9b70b216a420290b30e5bd15e800121874d7334890e46d8f8d859c325de7e1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Youtube_Trending_3.webp%22"></img></a></div>
+            <div class="thumbnailsVid"><a href="https://www.youtube.com/watch?v=ktyJIj6i4Qw&pp=sAQA" target="_blank" rel="noreferrer"><img alt="thumbnail1" src="https://i.ytimg.com/vi/ktyJIj6i4Qw/maxresdefault.jpg"></img></a></div>
+            <div class="thumbnailsVid"><a href="https://www.youtube.com/watch?v=8HEfIJlcFbs&pp=sAQA" target="_blank" rel="noreferrer"><img alt="thumbnail2" src="https://i.ytimg.com/vi/8HEfIJlcFbs/maxresdefault.jpg"></img></a></div>
+            <div class="thumbnailsVid"><a href="https://www.youtube.com/watch?v=CEw-7cMnBDY&pp=sAQA" target="_blank" rel="noreferrer"><img alt="thumbnail3" src="https://i.ytimg.com/vi/-TE1NoKHb8M/maxresdefault.jpg"></img></a></div>
             </div>
           </div>
           
           <div>
             <div class= "windows">
-            <div class="thumbnails"><a href= "https://viz.com" target= "_blank" rel="noreferrer"><img alt="viz" src= "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5867bdd2-da77-45db-b504-d914385836b8/viz-media-logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210801%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210801T005550Z&X-Amz-Expires=86400&X-Amz-Signature=ef7f4838ae33cafcfda914e1591fdf51972007837e0a80b697f422da0e6eedb2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22viz-media-logo.png%22"></img></a></div>
-                <div class="thumbnails"><a href= "https://instagram.com" target= "_blank" rel="noreferrer"><img  alt="instagram" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg"></img></a></div>
-                <div class="thumbnails"><a href= "https://tiktok.com" target= "_blank" rel="noreferrer"><img alt="tiktok" src="https://i.pinimg.com/originals/5d/d2/53/5dd25319e5ab4d5221bbc7da5e8a3bfa.png"></img></a></div>
+            <div class="thumbnails"><a href= "https://viz.com" target= "_blank" rel="noreferrer"><img alt="viz" src= "https://assets.viz.com/assets/logo@2x-b76f649f933ea15f45147ff5445a2501c85c7f863ba0aba5ea7bec93c3272cc6.png"></img></a></div>
+                <div class="thumbnails"><a href= "https://instagram.com" target= "_blank" rel="noreferrer"><img  alt="instagram" src="https://1000logos.net/wp-content/uploads/2017/02/ig-logo.png"></img></a></div>
+                <div class="thumbnails"><a href= "https://tiktok.com" target= "_blank" rel="noreferrer"><img alt="tiktok" src="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/TikTok_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1692901546"></img></a></div>
             </div>
           </div>
           <div>
