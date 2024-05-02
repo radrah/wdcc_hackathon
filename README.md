@@ -1,12 +1,12 @@
 # Procrastination Hub - WDCC x SESA Hackathon 2021 
 
-The scope of the project was to build a site to help students procrastinate(yes, you read that right). I was the project manager and built this site with 4 other developers within a 24hr period. 
+The project aimed to build a site to help students procrastinate(yes, you read that right). I was the project manager and built this site with 4 other developers within a 24-hour period. We placed in the Top 5.
 
-We were all beginner programmers and had only recently started coding. This was the first web-project any of us had worked on and a dear one as we created this within such a short period of time and represented to 50+ people.
+We were all beginner programmers and had only recently started coding. This was the first web project any of us had worked on, and a dear one as we created this within such a short period of time and represented 50+ people.
 
-The site allows people to sign-up and sign-in page, tasks page, procrastination statistics and friends leaderboard page, procrastiantion page that links to various popular video streaming, social media and reading sites widely used to procrastinate and the user cannot go back to look at the tasks page and can only procrastinate once they are in.
+The site allows people to sign up and sign-in page, tasks page, procrastination statistics and friends leaderboard page, procrastination page that links to various popular video streaming, social media and reading sites widely used to procrastinate and the user cannot go back to look at the tasks page and can only procrastinate once they are in.
 
-- Use `npm install` then `npm start` to run the web-app.
+- Use `npm install` and then `npm start` to run the web app.
 
 ## Features and Pages
 
